@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "88b14abc-53b2-451b-925a-33a2a3793c40")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 168.91 25.4)
+		(size 68.58 97.79)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "071bb09c-53e9-40d5-a683-8c0a72f5ffce")
+		(property "Sheetname" "Sensor"
+			(at 168.91 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sensor.kicad_sch"
+			(at 168.91 123.7746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FC"
+				(path "/88b14abc-53b2-451b-925a-33a2a3793c40"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.17 25.4)
+		(size 71.12 76.2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a3cd5880-fdf4-4563-8ec2-558a934930ec")
+		(property "Sheetname" "MCU"
+			(at 90.17 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 90.17 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FC"
+				(path "/88b14abc-53b2-451b-925a-33a2a3793c40"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.02 26.67)
+		(size 49.53 64.77)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d156c6ca-1844-4a8d-8b00-00e7e84f7745")
+		(property "Sheetname" "Power"
+			(at 33.02 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 33.02 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FC"
+				(path "/88b14abc-53b2-451b-925a-33a2a3793c40"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 121.92)
+		(size 92.71 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e5545c2c-34df-4799-904f-be6e432c936d")
+		(property "Sheetname" "Connected"
+			(at 38.1 121.2084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connected.kicad_sch"
+			(at 38.1 173.3046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FC"
+				(path "/88b14abc-53b2-451b-925a-33a2a3793c40"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
